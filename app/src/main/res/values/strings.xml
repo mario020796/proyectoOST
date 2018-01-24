@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz B.S.O</string>
+    <string-array name="categoria">
+        <item>Aleatorio</item>
+        <item>Series</item>
+        <item>Videojuegos</item>
+        <item>Películas</item>
+    </string-array>
+    <string-array name="codCategoria">
+        <item>Al</item>
+        <item>Se</item>
+        <item>Vi</item>
+        <item>Pe</item>
+    </string-array>
+</resources>
